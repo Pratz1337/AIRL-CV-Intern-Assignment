@@ -41,7 +41,7 @@ Everything installs automatically and executes end-to-end.
 
 | Metric   | Test Accuracy (%) |
 | -------- | ----------------- |
-| CIFAR-10 | **88.6 %**        |
+| CIFAR-10 | **83.39 %**        |
 
 ### Quick Notes / Analysis
 
